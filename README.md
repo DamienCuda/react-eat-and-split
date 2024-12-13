@@ -14,7 +14,8 @@ For local use:
    npm start
 
 ### Features
-- Add or chose an existing friend: Create a list of friends for tracking shared expenses.
+- Add or chose an existing friend
+- If new friend choose a ramfom avatar by changing the number at the and of the url
 - Log a shared expense: Add a new entry with the following details:
 - Total bill amount.
 - Your share of the amount.
