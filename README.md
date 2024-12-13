@@ -25,4 +25,4 @@ For local use:
 This project uses the following tools and libraries:
 
 Node.js and npm for package management and running the app.
-React for the front-end framework.
+React for the front-end framework
